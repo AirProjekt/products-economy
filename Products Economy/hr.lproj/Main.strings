@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "selling price value"; ObjectID = "4IU-6c-Ieh"; */
+"4IU-6c-Ieh.text" = "selling price value";
+
+/* Class = "UILabel"; text = "Stock price:"; ObjectID = "Cen-Xq-IAZ"; */
+"Cen-Xq-IAZ.text" = "Nabavna cijena:";
+
+/* Class = "UILabel"; text = "tax value"; ObjectID = "FbV-zm-PDN"; */
+"FbV-zm-PDN.text" = "tax value";
+
+/* Class = "UILabel"; text = "Category:"; ObjectID = "O5x-ox-U3m"; */
+"O5x-ox-U3m.text" = "Kategorija:";
+
+/* Class = "UILabel"; text = "Store List"; ObjectID = "bvG-kH-jtM"; */
+"bvG-kH-jtM.text" = "Lista Trgovina";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "dpo-rt-ZkU"; */
+"dpo-rt-ZkU.placeholder" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "dvC-oL-4Ez"; */
+"dvC-oL-4Ez.normalTitle" = "Prijavi se";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jxM-FW-skc"; */
+"jxM-FW-skc.text" = "Label";
+
+/* Class = "UILabel"; text = "Tax Rate:"; ObjectID = "k7L-hW-QP5"; */
+"k7L-hW-QP5.text" = "Porezna stopa:";
+
+/* Class = "UILabel"; text = "Product name"; ObjectID = "lzP-hx-tbS"; */
+"lzP-hx-tbS.text" = "Ime proizvoda";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m4r-pJ-q53"; */
+"m4r-pJ-q53.text" = "Label";
+
+/* Class = "UILabel"; text = "Selling price:"; ObjectID = "rZL-1x-rjU"; */
+"rZL-1x-rjU.text" = "Prodajna cijena:";
+
+/* Class = "UILabel"; text = "stock price value"; ObjectID = "tvU-g3-SOR"; */
+"tvU-g3-SOR.text" = "stock price value";
+
+/* Class = "UILabel"; text = "category value"; ObjectID = "we9-jv-yKi"; */
+"we9-jv-yKi.text" = "category value";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "x9d-Ie-W2Q"; */
+"x9d-Ie-W2Q.placeholder" = "Lozinka";
+
+/* Class = "UILabel"; text = "Economy"; ObjectID = "zJG-KC-kbp"; */
+"zJG-KC-kbp.text" = "Ekonomija";

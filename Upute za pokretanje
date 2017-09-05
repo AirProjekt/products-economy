@@ -1,0 +1,6 @@
+Za pokretanje projekta potrebno je imati instaliran upravitelj paketima cocapods. Upute za instalaciju mogu se naći na sljedećoj stranici.
+https://cocoapods.org/
+
+Nakon što je instaliran cocoapods potrebno je unutar korijenskog direktorija projekta u komandnoj liniji upisati sljedeću komandu 'pod install'. 
+
+Nakon što su instalirani svi potrebni paketi samo se otvori datoteka s imenom Products Economy.xcworkspace koja će zatim otvoriti projekt unutar Xcode-a.
